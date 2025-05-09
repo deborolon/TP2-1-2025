@@ -1,0 +1,22 @@
+{
+  "name": "clase-6",
+  "version": "1.0.0",
+  "description": "MVC",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node .",
+    "watch": "node --watch .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "mvc"
+  ],
+  "author": "Debo Rolon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
